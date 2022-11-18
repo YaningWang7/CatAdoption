@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CatAdoption/static/css/main.25d4f4fa.css",
+    "main.js": "/CatAdoption/static/js/main.93e0e865.js",
+    "static/js/496.6eecefa3.chunk.js": "/CatAdoption/static/js/496.6eecefa3.chunk.js",
+    "index.html": "/CatAdoption/index.html",
+    "main.25d4f4fa.css.map": "/CatAdoption/static/css/main.25d4f4fa.css.map",
+    "main.93e0e865.js.map": "/CatAdoption/static/js/main.93e0e865.js.map",
+    "496.6eecefa3.chunk.js.map": "/CatAdoption/static/js/496.6eecefa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d4f4fa.css",
+    "static/js/main.93e0e865.js"
+  ]
+}
