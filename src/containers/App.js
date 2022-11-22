@@ -8,6 +8,8 @@ import './App.css';
 function App() {
     const [cats, setCats] = useState([]);
     const [searchfield, setSearchfield] = useState('');
+    //useEffect is run when the variables in the second parameter array changes
+    //so if the second parameter is [], means useEffect is run when when the App() mount
     //componentDidMount = useEffect(()=>{...}, []) put the empty array as the second parameter
     //which make the useEffect only run when mount but not after rendering
     useEffect(() => {
